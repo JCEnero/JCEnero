@@ -1,12 +1,12 @@
 <!-- Banner / Intro -->
-<h1 align="center">👋 Hi, I'm John Carl S. Enero</h1>
-<h3 align="center">Full Stack Developer | Software Engineer | DevOps</h3>
+<h1 align="center">👋 Hi, I'm John Carl Enero</h1>
+<h3 align="center">Full Stack Developer & DevOps Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me  
 
-🎓 Studying Bachelor of Science in Information Technology at **Quezon City University** Philippines  
+🎓 Studying Bachelor of Science in Information Technology at **Quezon City University**, Philippines  
 💡 Passionate about building scalable applications and modern web solutions  
 🌱 Continuously learning and improving in **Full Stack Development & DevOps**  
 
