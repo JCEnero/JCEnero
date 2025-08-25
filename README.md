@@ -61,9 +61,10 @@
   <a href="https://x.com/JCarlEnero">
     <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://monkeytype.com/profile/JCEnero">
-    <img src="https://img.shields.io/badge/MonkeyTest-FF6F00?style=for-the-badge&logo=testing-library&logoColor=white"/>
-  </a>
+<a href="https://monkeytype.com/profile/JCEnero">
+  <img src="https://img.shields.io/badge/Monkeytype%20Test-FF6F00?style=for-the-badge&logo=keyboard&logoColor=white"/>
+</a>
+
   <a href="https://www.linkedin.com/in/jcenero/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
