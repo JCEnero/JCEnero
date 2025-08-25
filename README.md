@@ -52,32 +52,19 @@
 
 ---
 
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" alt="streak" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight" alt="languages" />
-</p>
-
----
-
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://facebook.com/yourprofile">
+  <a href="https://www.facebook.com/johncarlenero7">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://x.com/yourprofile">
+  <a href="https://x.com/JCarlEnero">
     <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://monkeytest.it/yourprofile">
+  <a href="https://monkeytype.com/profile/JCEnero">
     <img src="https://img.shields.io/badge/MonkeyTest-FF6F00?style=for-the-badge&logo=testing-library&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/jcenero/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
