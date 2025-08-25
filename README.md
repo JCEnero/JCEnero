@@ -6,8 +6,8 @@
 
 ## 🚀 About Me  
 
-🎓 BSIT Student at **Quezon City University**  
-💡 Passionate about building scalable applications, 3D visualization, and modern web solutions  
+🎓 Studying Bachelor of Science in Information Technology at **Quezon City University** Philippines 
+💡 Passionate about building scalable applications and modern web solutions  
 🌱 Continuously learning and improving in **Full Stack Development & DevOps**  
 
 ---
