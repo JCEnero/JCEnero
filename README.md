@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 
 🎓 Studying Bachelor of Science in Information Technology at **Quezon City University**, Philippines  
 💡 Passionate about building scalable applications and modern web solutions  
@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 ### 🌐 Languages  
 <p align="center">
@@ -50,7 +50,7 @@
 
 ---
 
-## 🌐 Connect with Me  
+## Connect with Me  
 
 <p align="center">
     <a href="https://www.linkedin.com/in/jcenero/">
@@ -71,5 +71,5 @@
 
 ---
 
-## 💡 Quote I Live By  
+## Quote I Live By  
 *"The best way to predict the future is to create it."* – Peter Drucker  
